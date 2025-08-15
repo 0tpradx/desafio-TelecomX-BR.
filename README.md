@@ -88,7 +88,4 @@ modelo_carregado = joblib.load('modelo_regressao_logistica.pkl')
 - Seaborn, Matplotlib
 - Joblib
 
----
 
-👤 Autora
-Projeto desenvolvido por Maryllian Vieira como parte do Challenge da Trilha de Especialização em Data Science do Programa ONE: Oracle Next Education em parceria com a Alura.
